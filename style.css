@@ -29,7 +29,7 @@ hr {
 }
 
 ol{
-    
+    font-size: 30px;
     color:lightblue
 }
 
@@ -41,6 +41,16 @@ h3{
 
 
 .backend{
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+}
+.language{
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+}
+.Company{
     font-size: 30px;
     margin: auto;
     width: 50%;
