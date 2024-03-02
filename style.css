@@ -2,6 +2,7 @@ body{
    text-align: center;
     background-color:darkblue
 }
+
 h1{
     text-align: center;
     font-size: 5rem;
@@ -45,13 +46,26 @@ h3{
     margin: auto;
     width: 50%;
 }
+
 .language{
     font-size: 30px;
     margin: auto;
     width: 50%;
 }
+
 .Company{
     font-size: 30px;
     margin: auto;
     width: 50%;
 }
+
+table{
+    font-size: 30px;
+    margin: auto;
+    width: 50%; 
+    color: beige;
+    padding: 60px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
